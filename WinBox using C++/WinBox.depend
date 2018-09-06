@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1532521549 source:g:\fnm\computer science  & engineering\14th semester_cse(107,480)\cse107\final\game\winbox\main.cpp
+	<iostream>
+	<windows.h>
+
